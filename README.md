@@ -19,7 +19,7 @@ Personne ne sait tout ça au départ.
 1. **Crée un compte GH** (**G**it**H**ub) si tu n'en as pas.
 2. **Apprends le minimum de Git** : ***forker***, puis ***cloner*** un dépôt, créer une branche, faire un ***commit***, ouvrir une ***PR*** (**P**ull **R**equest). Le dépôt [first-contributions](https://github.com/firstcontributions/first-contributions) t'entraîne pas à pas (il existe en français).
 3. **Regarde les [***issues***](https://github.com/devhub-community-staff/collabot/issues)** ou ouvre-en une pour proposer une idée. Si tu prends une tâche, écris « je prends » dessus, pour que deux personnes ne fassent pas la même chose, ou alors, en connaissance de cause, et des co-contributeurs.
-4. **Bloqué ?** Pose ta question dans l'issue ou sur le [serveur Discord DevHub](LIEN_INVITATION). Aucune question n'est bête ici.
+4. **Bloqué ?** Pose ta question dans l'issue ou sur le [serveur Discord DevHub](https://discord.gg/9vHv5qhFVC). Aucune question n'est bête ici.
 
 ## Je sais déjà utiliser Git
 
