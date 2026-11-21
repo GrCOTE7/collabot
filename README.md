@@ -37,3 +37,5 @@ Chaque PR est relue avant d'être fusionnée. Ce n'est pas un examen : on t'expl
 
 - Bienveillance d'abord : on a tous débuté.
 - Jamais de secret (token, mot de passe, clé) dans le code.
+
+présentation sur [le site devhub](https://devhub-community.fr/articles/collabot-bot-discord-collaboratif/)
