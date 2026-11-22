@@ -1,8 +1,32 @@
 # CollaBot
 
-C'est un **bot Discord** construit à plusieurs, ouvert à tous, pour **apprendre à coder, s'améliorer** et **travailler en équipe avec Git**.
+<p align="center" style="font-size: 18px">
+  🤝 Un <b>Bot Discord</b> construit à plusieurs,<br>
+  Un <b>projet collaboratif</b> particulièrement <b>adapté aux débutants</b>.
+</p>
 
 > Le bot n'est pas le but. Le but, c'est d'apprendre en le construisant.
+
+Ouvert à tous, pour **apprendre à coder, s'améliorer** et **travailler en équipe avec Git**.
+
+<div align="center">
+  <a href="https://github.com/grcote7/gsm/commits">
+    <img src="https://img.shields.io/github/commit-activity/m/devhub-community-staff/collabot?style=for-the-badge" alt="Commits per Month">
+  </a>
+  <a href="https://github.com/grcote7/gsm/commits">
+    <img src="https://img.shields.io/github/commit-activity/t/devhub-community-staff/collabot?style=for-the-badge" alt="Total Commits">
+  </a>
+  <a href="https://github.com/grcote7/gsm/commits">
+    <img src="https://img.shields.io/github/last-commit/devhub-community-staff/collabot?style=for-the-badge" alt="Last Commit">
+  </a>
+  <hr>
+  <a href = "https://discord.com/channels/1056923339546968127/1507316257580519445" title="Lance la comm. et reste branché !
+À un moment, quelqu'un y répondra :-) !" target="_blank">
+
+Tu ❤️ Python...? Rejoins-nous dans le chat en LIVE !
+
+[![Discord](https://img.shields.io/discord/1426641527748169833?label=Chat)](https://discord.com/channels/1426641527748169833/1426643295332995143)</a>
+</div>
 
 ## L'idée
 
@@ -11,6 +35,8 @@ On part de zéro : pas une ligne de code, juste ce fichier. Chacun vient poser s
 Tout le monde a sa place. Si tu viens de découvrir ce qu'est un terminal, tu es bienvenu. Si tu codes depuis vingt ans aussi : relire, conseiller, débloquer quelqu'un, ça compte autant qu'écrire du code.
 
 Pas d'horaires, pas d'obligation. Tu contribues quand tu veux, autant que tu veux.
+
+## Je veux un aperçu du code actuel → <a href="https://codespaces.new/devhub-community-staff/collabot" title="Ouvrir ce dépôt dans GitHub Codespaces"><img src="https://img.shields.io/badge/Dev%20CollaBot%20directement%20en%20ligne%20sur%20Github.-blue.svg" alt="Badge CodeSpace" /></a>
 
 ## Je débute : par où commencer ?
 
@@ -38,4 +64,6 @@ Chaque PR est relue avant d'être fusionnée. Ce n'est pas un examen : on t'expl
 - Bienveillance d'abord : on a tous débuté.
 - Jamais de secret (token, mot de passe, clé) dans le code.
 
-présentation sur [le site devhub](https://devhub-community.fr/articles/collabot-bot-discord-collaboratif/)
+## Ressources
+
+- Présentation sur [le site devhub](https://devhub-community.fr/articles/collabot-bot-discord-collaboratif/)
